@@ -3,7 +3,7 @@
   
 # Money Tracker
   
-![Peek 2022-03-05 10-31](https://user-images.githubusercontent.com/66398400/156885470-6e3659d4-953f-4e17-ac5a-931461281565.gif)
+![Peek 2022-03-05 10-56](https://user-images.githubusercontent.com/66398400/156886463-a373d113-d381-40fc-bcc2-b5c6e98784a1.gif)
 
 </div>
 
